@@ -2,6 +2,7 @@
     - Head First Design Patterns, 2nd Edition
     - Погружения в паттерны проектирования.(Refactoring guru)
     - design pattern elements of reusable object-oriented software
+    - download pdf file https://refactoring.guru/home
     - https://refactoring.guru
 
 - javascript pattern book
