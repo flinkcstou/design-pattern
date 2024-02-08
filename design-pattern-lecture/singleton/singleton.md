@@ -54,14 +54,22 @@
 
 class Database {
 
-  private static Database database = new Database();
+  private static Database database = createDatabase();
 
   private Database() {
 
   }
 
   private Database createDatabase() {
-    // some logic
+    
+    /*
+     * some logic 
+     * */
+    
+    /*
+     * also you can write some Double-Checked Locking
+     * it need to be sure  to get one instance from multiple thread
+     * */
     return new Database();
   }
 
