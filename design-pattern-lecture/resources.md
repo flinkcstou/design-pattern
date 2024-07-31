@@ -40,6 +40,8 @@
         - http://www.blackwasp.co.uk/Observer.aspx
     - prototype
         - https://sbcode.net/typescript/prototype/
+    - abstract
+      - https://www.youtube.com/watch?app=desktop&v=4ZbBiMCNCDk
 
 
 - starting or roadmap
